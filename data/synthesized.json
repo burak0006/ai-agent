@@ -1,0 +1,2006 @@
+[
+  {
+    "text": "The company name is Tronox with id 1.",
+    "metadata": {
+      "company": "Tronox"
+    }
+  },
+  {
+    "text": "The reporting currency is USD millions for company Tronox.",
+    "metadata": {
+      "company": "Tronox"
+    }
+  },
+  {
+    "text": "There is a financial report dated 2023-12-31 with period Annual for Tronox.",
+    "metadata": {
+      "company": "Tronox"
+    }
+  },
+  {
+    "text": "There is a financial report dated 2024-12-31 with period Annual for Tronox.",
+    "metadata": {
+      "company": "Tronox"
+    }
+  },
+  {
+    "text": "There is a financial report dated 2025-06-30 with period LTM for Tronox.",
+    "metadata": {
+      "company": "Tronox"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Tronox reported Sales of 2850.0 USDm (period: Annual) with url https://www.9fin.com/company_id/1/key_financials",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/key_financials",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Tronox reported Gross profit of 462.0 USDm (period: Annual) with url https://www.9fin.com/company_id/1/key_financials",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/key_financials",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Tronox reported Gross profit margin of 16.2 % (period: Annual) with url https://www.9fin.com/company_id/1/key_financials",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/key_financials",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Tronox reported Operating profit of 186.0 USDm (period: Annual) with url https://www.9fin.com/company_id/1/key_financials",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/key_financials",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Tronox reported Operating profit margin of 6.5 % (period: Annual) with url https://www.9fin.com/company_id/1/key_financials",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/key_financials",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Tronox reported Adjusted EBITDA of 524.0 USDm (period: Annual) with url https://www.9fin.com/company_id/1/key_financials",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/key_financials",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Tronox reported Adjusted EBITDA margin of 18.4 % (period: Annual) with url https://www.9fin.com/company_id/1/key_financials",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/key_financials",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Tronox reported Sales of 3074.0 USDm (period: Annual) with url https://www.9fin.com/company_id/1/key_financials",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/key_financials",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Tronox reported Gross profit of 515.0 USDm (period: Annual) with url https://www.9fin.com/company_id/1/key_financials",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/key_financials",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Tronox reported Gross profit margin of 16.8 % (period: Annual) with url https://www.9fin.com/company_id/1/key_financials",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/key_financials",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Tronox reported Operating profit of 219.0 USDm (period: Annual) with url https://www.9fin.com/company_id/1/key_financials",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/key_financials",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Tronox reported Operating profit margin of 7.1 % (period: Annual) with url https://www.9fin.com/company_id/1/key_financials",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/key_financials",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Tronox reported Adjusted EBITDA of 564.0 USDm (period: Annual) with url https://www.9fin.com/company_id/1/key_financials",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/key_financials",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Tronox reported Adjusted EBITDA margin of 18.3 % (period: Annual) with url https://www.9fin.com/company_id/1/key_financials",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/key_financials",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Tronox reported Sales of 2949.0 USDm (period: LTM) with url https://www.9fin.com/company_id/1/key_financials",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/key_financials",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Tronox reported Gross profit of 423.0 USDm (period: LTM) with url https://www.9fin.com/company_id/1/key_financials",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/key_financials",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Tronox reported Gross profit margin of 14.3 % (period: LTM) with url https://www.9fin.com/company_id/1/key_financials",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/key_financials",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Tronox reported Operating profit of 6.0 USDm (period: LTM) with url https://www.9fin.com/company_id/1/key_financials",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/key_financials",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Tronox reported Operating profit margin of 0.2 % (period: LTM) with url https://www.9fin.com/company_id/1/key_financials",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/key_financials",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Tronox reported Adjusted EBITDA of 477.0 USDm (period: LTM) with url https://www.9fin.com/company_id/1/key_financials",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/key_financials",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Tronox reported Adjusted EBITDA margin of 16.2 % (period: LTM) with url https://www.9fin.com/company_id/1/key_financials",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/key_financials",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Tronox reported Capex of -261.0 USDm (period: Annual) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Tronox reported Capex margin of -9.2 % (period: Annual) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Tronox reported Change in working capital of -138.0 USDm (period: Annual) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Tronox reported Cash from operating activities of 184.0 USDm (period: Annual) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Tronox reported Cash from investing activities of -255.0 USDm (period: Annual) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Tronox reported Cash from financing activities of 176.0 USDm (period: Annual) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Tronox reported Net change in cash of 109.0 USDm (period: Annual) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Tronox reported Total debt of 2843.0 USDm (period: Annual) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Tronox reported Total cash of 273.0 USDm (period: Annual) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Tronox reported Net debt of 2570.0 USDm (period: Annual) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Tronox reported Net leverage of 4.9 x (period: Annual) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Tronox reported Gross leverage of 5.4 x (period: Annual) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Tronox reported Interest coverage of 3.7 x (period: Annual) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Tronox reported Capex of -370.0 USDm (period: Annual) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Tronox reported Capex margin of -12.0 % (period: Annual) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Tronox reported Change in working capital of -65.0 USDm (period: Annual) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Tronox reported Cash from operating activities of 300.0 USDm (period: Annual) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Tronox reported Cash from investing activities of -343.0 USDm (period: Annual) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Tronox reported Cash from financing activities of -71.0 USDm (period: Annual) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Tronox reported Net change in cash of -121.0 USDm (period: Annual) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Tronox reported Total debt of 2892.0 USDm (period: Annual) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Tronox reported Total cash of 151.0 USDm (period: Annual) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Tronox reported Net debt of 2741.0 USDm (period: Annual) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Tronox reported Net leverage of 4.9 x (period: Annual) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Tronox reported Gross leverage of 5.1 x (period: Annual) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Tronox reported Interest coverage of 3.6 x (period: Annual) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Tronox reported Capex of -411.0 USDm (period: LTM) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Tronox reported Capex margin of -13.9 % (period: LTM) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Tronox reported Change in working capital of -91.0 USDm (period: LTM) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Tronox reported Cash from operating activities of 165.0 USDm (period: LTM) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Tronox reported Cash from investing activities of -383.0 USDm (period: LTM) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Tronox reported Cash from financing activities of 148.0 USDm (period: LTM) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Tronox reported Net change in cash of -68.0 USDm (period: LTM) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Tronox reported Total debt of 3082.0 USDm (period: LTM) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Tronox reported Total cash of 132.0 USDm (period: LTM) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Tronox reported Net debt of 2950.0 USDm (period: LTM) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Tronox reported Net leverage of 6.2 x (period: LTM) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Tronox reported Gross leverage of 6.5 x (period: LTM) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Tronox reported Interest coverage of 2.9 x (period: LTM) with url https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Tronox had $350m Revolving Credit Facility due 2029 with amount 100.0 USDm, maturity Aug-2029, security Secured, rate S+175-225, equivalent to 0.21x EBITDA, representing 2.87% of capital structure.",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Tronox had Revolving credit facilities short term debt with amount 166.0 USDm, maturity Various, security Secured, rate Variable, equivalent to 0.35x EBITDA, representing 4.77% of capital structure.",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Tronox had $741m Term Loan B due 2029 with amount 734.0 USDm, maturity Apr-2029, security Secured, rate S+225, equivalent to 1.54x EBITDA, representing 21.1% of capital structure.",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Tronox had $902m Term Loan B due 2031 with amount 891.0 USDm, maturity Sep-2031, security Secured, rate S+250, equivalent to 1.87x EBITDA, representing 25.61% of capital structure.",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Tronox had Gross Secured Debt with amount 1891.0 USDm, equivalent to 3.96x EBITDA, representing 54.35% of capital structure.",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Tronox had Net Secured Debt with amount 1759.0 USDm, equivalent to 3.69x EBITDA, representing 50.55% of capital structure.",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Tronox had $1.075bn Senior Notes due 2029 with amount 1075.0 USDm, maturity Mar-2029, security Unsecured, rate 4.625%, equivalent to 2.25x EBITDA, representing 30.9% of capital structure.",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Tronox had \u00a51.1bn Term Loan Facility due 2029 with amount 57.0 USDm, maturity Aug-2029, security Unsecured, rate JIBAR+235, equivalent to 0.12x EBITDA, representing 1.64% of capital structure.",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Tronox had Australian Government Loan due 2036 with amount 2.0 USDm, maturity Dec-2036, security Unsecured, rate N/A, equivalent to 0.0x EBITDA, representing 0.06% of capital structure.",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Tronox had MGT Loan with amount 16.0 USDm, maturity Various, security Unsecured, rate Variable, equivalent to 0.03x EBITDA, representing 0.46% of capital structure.",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Tronox had Finance Leases with amount 41.0 USDm, equivalent to 0.09x EBITDA, representing 1.18% of capital structure.",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Tronox had Gross Debt with amount 3082.0 USDm, equivalent to 6.46x EBITDA, representing 88.58% of capital structure.",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Tronox had Cash and Cash Equivalents with amount -132.0 USDm, equivalent to -0.28x EBITDA, representing -3.79% of capital structure.",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Tronox had Net Debt with amount 2950.0 USDm, equivalent to 6.18x EBITDA, representing 84.78% of capital structure.",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Tronox had Market Capitalization with amount 529.5 USDm, equivalent to 1.11x EBITDA, representing 15.22% of capital structure.",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Tronox had Net Capitalization with amount 3479.5 USDm, equivalent to 7.29x EBITDA, representing 100.0% of capital structure.",
+    "metadata": {
+      "company": "Tronox",
+      "source": "https://www.9fin.com/company_id/1/cap_table"
+    }
+  },
+  {
+    "text": "The company name is Chemco Holdings with id 2.",
+    "metadata": {
+      "company": "Chemco Holdings"
+    }
+  },
+  {
+    "text": "The reporting currency is USD millions for company Chemco Holdings.",
+    "metadata": {
+      "company": "Chemco Holdings"
+    }
+  },
+  {
+    "text": "There is a financial report dated 2023-12-31 with period Annual for Chemco Holdings.",
+    "metadata": {
+      "company": "Chemco Holdings"
+    }
+  },
+  {
+    "text": "There is a financial report dated 2024-12-31 with period Annual for Chemco Holdings.",
+    "metadata": {
+      "company": "Chemco Holdings"
+    }
+  },
+  {
+    "text": "There is a financial report dated 2025-06-30 with period LTM for Chemco Holdings.",
+    "metadata": {
+      "company": "Chemco Holdings"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Chemco Holdings reported Sales of 5200.0 USDm (period: Annual) with url https://www.9fin.com/company_id/2/key_financials",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/key_financials",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Chemco Holdings reported Gross profit of 1040.0 USDm (period: Annual) with url https://www.9fin.com/company_id/2/key_financials",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/key_financials",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Chemco Holdings reported Gross profit margin of 20.0 % (period: Annual) with url https://www.9fin.com/company_id/2/key_financials",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/key_financials",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Chemco Holdings reported Operating profit of 520.0 USDm (period: Annual) with url https://www.9fin.com/company_id/2/key_financials",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/key_financials",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Chemco Holdings reported Operating profit margin of 10.0 % (period: Annual) with url https://www.9fin.com/company_id/2/key_financials",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/key_financials",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Chemco Holdings reported Adjusted EBITDA of 780.0 USDm (period: Annual) with url https://www.9fin.com/company_id/2/key_financials",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/key_financials",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Chemco Holdings reported Adjusted EBITDA margin of 15.0 % (period: Annual) with url https://www.9fin.com/company_id/2/key_financials",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/key_financials",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Chemco Holdings reported Sales of 5480.0 USDm (period: Annual) with url https://www.9fin.com/company_id/2/key_financials",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/key_financials",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Chemco Holdings reported Gross profit of 1096.0 USDm (period: Annual) with url https://www.9fin.com/company_id/2/key_financials",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/key_financials",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Chemco Holdings reported Gross profit margin of 20.0 % (period: Annual) with url https://www.9fin.com/company_id/2/key_financials",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/key_financials",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Chemco Holdings reported Operating profit of 548.0 USDm (period: Annual) with url https://www.9fin.com/company_id/2/key_financials",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/key_financials",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Chemco Holdings reported Operating profit margin of 10.0 % (period: Annual) with url https://www.9fin.com/company_id/2/key_financials",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/key_financials",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Chemco Holdings reported Adjusted EBITDA of 803.0 USDm (period: Annual) with url https://www.9fin.com/company_id/2/key_financials",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/key_financials",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Chemco Holdings reported Adjusted EBITDA margin of 14.7 % (period: Annual) with url https://www.9fin.com/company_id/2/key_financials",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/key_financials",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Chemco Holdings reported Sales of 5310.0 USDm (period: LTM) with url https://www.9fin.com/company_id/2/key_financials",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/key_financials",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Chemco Holdings reported Gross profit of 1008.0 USDm (period: LTM) with url https://www.9fin.com/company_id/2/key_financials",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/key_financials",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Chemco Holdings reported Gross profit margin of 19.0 % (period: LTM) with url https://www.9fin.com/company_id/2/key_financials",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/key_financials",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Chemco Holdings reported Operating profit of 477.0 USDm (period: LTM) with url https://www.9fin.com/company_id/2/key_financials",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/key_financials",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Chemco Holdings reported Operating profit margin of 9.0 % (period: LTM) with url https://www.9fin.com/company_id/2/key_financials",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/key_financials",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Chemco Holdings reported Adjusted EBITDA of 742.0 USDm (period: LTM) with url https://www.9fin.com/company_id/2/key_financials",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/key_financials",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Chemco Holdings reported Adjusted EBITDA margin of 14.0 % (period: LTM) with url https://www.9fin.com/company_id/2/key_financials",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/key_financials",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Chemco Holdings reported Capex of -420.0 USDm (period: Annual) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Chemco Holdings reported Capex margin of -8.1 % (period: Annual) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Chemco Holdings reported Change in working capital of -80.0 USDm (period: Annual) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Chemco Holdings reported Cash from operating activities of 700.0 USDm (period: Annual) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Chemco Holdings reported Cash from investing activities of -390.0 USDm (period: Annual) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Chemco Holdings reported Cash from financing activities of -150.0 USDm (period: Annual) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Chemco Holdings reported Net change in cash of 160.0 USDm (period: Annual) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Chemco Holdings reported Total debt of 4100.0 USDm (period: Annual) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Chemco Holdings reported Total cash of 500.0 USDm (period: Annual) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Chemco Holdings reported Net debt of 3600.0 USDm (period: Annual) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Chemco Holdings reported Net leverage of 4.6 x (period: Annual) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Chemco Holdings reported Gross leverage of 5.3 x (period: Annual) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, Chemco Holdings reported Interest coverage of 5.0 x (period: Annual) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Chemco Holdings reported Capex of -450.0 USDm (period: Annual) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Chemco Holdings reported Capex margin of -8.2 % (period: Annual) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Chemco Holdings reported Change in working capital of -40.0 USDm (period: Annual) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Chemco Holdings reported Cash from operating activities of 730.0 USDm (period: Annual) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Chemco Holdings reported Cash from investing activities of -420.0 USDm (period: Annual) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Chemco Holdings reported Cash from financing activities of -200.0 USDm (period: Annual) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Chemco Holdings reported Net change in cash of 110.0 USDm (period: Annual) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Chemco Holdings reported Total debt of 3950.0 USDm (period: Annual) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Chemco Holdings reported Total cash of 610.0 USDm (period: Annual) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Chemco Holdings reported Net debt of 3340.0 USDm (period: Annual) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Chemco Holdings reported Net leverage of 4.2 x (period: Annual) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Chemco Holdings reported Gross leverage of 4.9 x (period: Annual) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, Chemco Holdings reported Interest coverage of 5.1 x (period: Annual) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Chemco Holdings reported Capex of -478.0 USDm (period: LTM) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Chemco Holdings reported Capex margin of -9.0 % (period: LTM) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Chemco Holdings reported Change in working capital of -65.0 USDm (period: LTM) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Chemco Holdings reported Cash from operating activities of 665.0 USDm (period: LTM) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Chemco Holdings reported Cash from investing activities of -450.0 USDm (period: LTM) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Chemco Holdings reported Cash from financing activities of -120.0 USDm (period: LTM) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Chemco Holdings reported Net change in cash of 95.0 USDm (period: LTM) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Chemco Holdings reported Total debt of 3980.0 USDm (period: LTM) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Chemco Holdings reported Total cash of 705.0 USDm (period: LTM) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Chemco Holdings reported Net debt of 3275.0 USDm (period: LTM) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Chemco Holdings reported Net leverage of 4.4 x (period: LTM) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Chemco Holdings reported Gross leverage of 5.4 x (period: LTM) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, Chemco Holdings reported Interest coverage of 4.8 x (period: LTM) with url https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Chemco Holdings had $500m Revolving Credit Facility due 2028 with amount 50.0 USDm, maturity Nov-2028, security Secured, rate S+175-225, equivalent to 0.07x EBITDA, representing 0.88% of capital structure.",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Chemco Holdings had Short term debt with amount 120.0 USDm, maturity Various, security Secured, rate Variable, equivalent to 0.16x EBITDA, representing 2.12% of capital structure.",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Chemco Holdings had $2.2bn Term Loan B due 2030 with amount 2200.0 USDm, maturity Apr-2030, security Secured, rate S+225, equivalent to 2.97x EBITDA, representing 38.77% of capital structure.",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Chemco Holdings had $1.3bn Term Loan B due 2032 with amount 1300.0 USDm, maturity Sep-2032, security Secured, rate S+250, equivalent to 1.75x EBITDA, representing 22.9% of capital structure.",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Chemco Holdings had Gross Secured Debt with amount 3670.0 USDm, equivalent to 4.95x EBITDA, representing 64.66% of capital structure.",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Chemco Holdings had Net Secured Debt with amount 2965.0 USDm, equivalent to 4.0x EBITDA, representing 52.25% of capital structure.",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Chemco Holdings had $300m Senior Notes due 2030 with amount 300.0 USDm, maturity Mar-2030, security Unsecured, rate 4.875%, equivalent to 0.4x EBITDA, representing 5.29% of capital structure.",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Chemco Holdings had Finance Leases with amount 10.0 USDm, equivalent to 0.01x EBITDA, representing 0.18% of capital structure.",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Chemco Holdings had Gross Debt with amount 3980.0 USDm, equivalent to 5.36x EBITDA, representing 70.13% of capital structure.",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Chemco Holdings had Cash and Cash Equivalents with amount -705.0 USDm, equivalent to -0.95x EBITDA, representing -12.42% of capital structure.",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Chemco Holdings had Net Debt with amount 3275.0 USDm, equivalent to 4.41x EBITDA, representing 57.71% of capital structure.",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Chemco Holdings had Market Capitalization with amount 2400.0 USDm, equivalent to 3.24x EBITDA, representing 42.29% of capital structure.",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, Chemco Holdings had Net Capitalization with amount 5675.0 USDm, equivalent to 7.65x EBITDA, representing 100.0% of capital structure.",
+    "metadata": {
+      "company": "Chemco Holdings",
+      "source": "https://www.9fin.com/company_id/2/cap_table"
+    }
+  },
+  {
+    "text": "The company name is MineralsCo International with id 3.",
+    "metadata": {
+      "company": "MineralsCo International"
+    }
+  },
+  {
+    "text": "The reporting currency is USD millions for company MineralsCo International.",
+    "metadata": {
+      "company": "MineralsCo International"
+    }
+  },
+  {
+    "text": "There is a financial report dated 2023-12-31 with period Annual for MineralsCo International.",
+    "metadata": {
+      "company": "MineralsCo International"
+    }
+  },
+  {
+    "text": "There is a financial report dated 2024-12-31 with period Annual for MineralsCo International.",
+    "metadata": {
+      "company": "MineralsCo International"
+    }
+  },
+  {
+    "text": "There is a financial report dated 2025-06-30 with period LTM for MineralsCo International.",
+    "metadata": {
+      "company": "MineralsCo International"
+    }
+  },
+  {
+    "text": "In 2023-12-31, MineralsCo International reported Sales of 1700.0 USDm (period: Annual) with url https://www.9fin.com/company_id/3/key_financials",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/key_financials",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, MineralsCo International reported Gross profit of 510.0 USDm (period: Annual) with url https://www.9fin.com/company_id/3/key_financials",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/key_financials",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, MineralsCo International reported Gross profit margin of 30.0 % (period: Annual) with url https://www.9fin.com/company_id/3/key_financials",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/key_financials",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, MineralsCo International reported Operating profit of 221.0 USDm (period: Annual) with url https://www.9fin.com/company_id/3/key_financials",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/key_financials",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, MineralsCo International reported Operating profit margin of 13.0 % (period: Annual) with url https://www.9fin.com/company_id/3/key_financials",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/key_financials",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, MineralsCo International reported Adjusted EBITDA of 350.0 USDm (period: Annual) with url https://www.9fin.com/company_id/3/key_financials",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/key_financials",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, MineralsCo International reported Adjusted EBITDA margin of 20.6 % (period: Annual) with url https://www.9fin.com/company_id/3/key_financials",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/key_financials",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, MineralsCo International reported Sales of 1850.0 USDm (period: Annual) with url https://www.9fin.com/company_id/3/key_financials",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/key_financials",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, MineralsCo International reported Gross profit of 555.0 USDm (period: Annual) with url https://www.9fin.com/company_id/3/key_financials",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/key_financials",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, MineralsCo International reported Gross profit margin of 30.0 % (period: Annual) with url https://www.9fin.com/company_id/3/key_financials",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/key_financials",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, MineralsCo International reported Operating profit of 241.0 USDm (period: Annual) with url https://www.9fin.com/company_id/3/key_financials",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/key_financials",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, MineralsCo International reported Operating profit margin of 13.0 % (period: Annual) with url https://www.9fin.com/company_id/3/key_financials",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/key_financials",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, MineralsCo International reported Adjusted EBITDA of 375.0 USDm (period: Annual) with url https://www.9fin.com/company_id/3/key_financials",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/key_financials",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, MineralsCo International reported Adjusted EBITDA margin of 20.3 % (period: Annual) with url https://www.9fin.com/company_id/3/key_financials",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/key_financials",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2025-06-30, MineralsCo International reported Sales of 1920.0 USDm (period: LTM) with url https://www.9fin.com/company_id/3/key_financials",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/key_financials",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, MineralsCo International reported Gross profit of 576.0 USDm (period: LTM) with url https://www.9fin.com/company_id/3/key_financials",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/key_financials",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, MineralsCo International reported Gross profit margin of 30.0 % (period: LTM) with url https://www.9fin.com/company_id/3/key_financials",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/key_financials",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, MineralsCo International reported Operating profit of 230.0 USDm (period: LTM) with url https://www.9fin.com/company_id/3/key_financials",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/key_financials",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, MineralsCo International reported Operating profit margin of 12.0 % (period: LTM) with url https://www.9fin.com/company_id/3/key_financials",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/key_financials",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, MineralsCo International reported Adjusted EBITDA of 368.0 USDm (period: LTM) with url https://www.9fin.com/company_id/3/key_financials",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/key_financials",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, MineralsCo International reported Adjusted EBITDA margin of 19.2 % (period: LTM) with url https://www.9fin.com/company_id/3/key_financials",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/key_financials",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2023-12-31, MineralsCo International reported Capex of -120.0 USDm (period: Annual) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, MineralsCo International reported Capex margin of -7.1 % (period: Annual) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, MineralsCo International reported Change in working capital of -10.0 USDm (period: Annual) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, MineralsCo International reported Cash from operating activities of 300.0 USDm (period: Annual) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, MineralsCo International reported Cash from investing activities of -130.0 USDm (period: Annual) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, MineralsCo International reported Cash from financing activities of -50.0 USDm (period: Annual) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, MineralsCo International reported Net change in cash of 120.0 USDm (period: Annual) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, MineralsCo International reported Total debt of 1200.0 USDm (period: Annual) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, MineralsCo International reported Total cash of 200.0 USDm (period: Annual) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, MineralsCo International reported Net debt of 1000.0 USDm (period: Annual) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, MineralsCo International reported Net leverage of 2.9 x (period: Annual) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, MineralsCo International reported Gross leverage of 3.4 x (period: Annual) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2023-12-31, MineralsCo International reported Interest coverage of 6.0 x (period: Annual) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2023-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, MineralsCo International reported Capex of -150.0 USDm (period: Annual) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, MineralsCo International reported Capex margin of -8.1 % (period: Annual) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, MineralsCo International reported Change in working capital of -20.0 USDm (period: Annual) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, MineralsCo International reported Cash from operating activities of 315.0 USDm (period: Annual) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, MineralsCo International reported Cash from investing activities of -160.0 USDm (period: Annual) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, MineralsCo International reported Cash from financing activities of -30.0 USDm (period: Annual) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, MineralsCo International reported Net change in cash of 125.0 USDm (period: Annual) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, MineralsCo International reported Total debt of 1250.0 USDm (period: Annual) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, MineralsCo International reported Total cash of 325.0 USDm (period: Annual) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, MineralsCo International reported Net debt of 925.0 USDm (period: Annual) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, MineralsCo International reported Net leverage of 2.5 x (period: Annual) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, MineralsCo International reported Gross leverage of 3.3 x (period: Annual) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2024-12-31, MineralsCo International reported Interest coverage of 6.5 x (period: Annual) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "Annual",
+      "date": "2024-12-31"
+    }
+  },
+  {
+    "text": "In 2025-06-30, MineralsCo International reported Capex of -180.0 USDm (period: LTM) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, MineralsCo International reported Capex margin of -9.4 % (period: LTM) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, MineralsCo International reported Change in working capital of 5.0 USDm (period: LTM) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, MineralsCo International reported Cash from operating activities of 310.0 USDm (period: LTM) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, MineralsCo International reported Cash from investing activities of -190.0 USDm (period: LTM) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, MineralsCo International reported Cash from financing activities of -20.0 USDm (period: LTM) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, MineralsCo International reported Net change in cash of 100.0 USDm (period: LTM) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, MineralsCo International reported Total debt of 1180.0 USDm (period: LTM) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, MineralsCo International reported Total cash of 420.0 USDm (period: LTM) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, MineralsCo International reported Net debt of 760.0 USDm (period: LTM) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, MineralsCo International reported Net leverage of 2.1 x (period: LTM) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, MineralsCo International reported Gross leverage of 3.2 x (period: LTM) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "In 2025-06-30, MineralsCo International reported Interest coverage of 6.8 x (period: LTM) with url https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cash_flow_and_leverage",
+      "period": "LTM",
+      "date": "2025-06-30"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, MineralsCo International had $150m Revolving Credit Facility due 2028 with amount 20.0 USDm, maturity Oct-2028, security Secured, rate S+175-225, equivalent to 0.05x EBITDA, representing 1.05% of capital structure.",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, MineralsCo International had Short term debt with amount 60.0 USDm, maturity Various, security Secured, rate Variable, equivalent to 0.16x EBITDA, representing 3.14% of capital structure.",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, MineralsCo International had $500m Term Loan B due 2029 with amount 500.0 USDm, maturity Apr-2029, security Secured, rate S+225, equivalent to 1.36x EBITDA, representing 26.18% of capital structure.",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, MineralsCo International had $400m Term Loan B due 2031 with amount 400.0 USDm, maturity Sep-2031, security Secured, rate S+250, equivalent to 1.09x EBITDA, representing 20.94% of capital structure.",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, MineralsCo International had Gross Secured Debt with amount 980.0 USDm, equivalent to 2.66x EBITDA, representing 51.31% of capital structure.",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, MineralsCo International had Net Secured Debt with amount 560.0 USDm, equivalent to 1.52x EBITDA, representing 29.32% of capital structure.",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, MineralsCo International had $180m Senior Notes due 2030 with amount 180.0 USDm, maturity Mar-2030, security Unsecured, rate 5.25%, equivalent to 0.49x EBITDA, representing 9.42% of capital structure.",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, MineralsCo International had Finance Leases with amount 20.0 USDm, equivalent to 0.05x EBITDA, representing 1.05% of capital structure.",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, MineralsCo International had Gross Debt with amount 1180.0 USDm, equivalent to 3.21x EBITDA, representing 61.78% of capital structure.",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, MineralsCo International had Cash and Cash Equivalents with amount -420.0 USDm, equivalent to -1.14x EBITDA, representing -21.99% of capital structure.",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, MineralsCo International had Net Debt with amount 760.0 USDm, equivalent to 2.07x EBITDA, representing 39.79% of capital structure.",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, MineralsCo International had Market Capitalization with amount 1150.0 USDm, equivalent to 3.13x EBITDA, representing 60.21% of capital structure.",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cap_table"
+    }
+  },
+  {
+    "text": "As of 2025-06-30, MineralsCo International had Net Capitalization with amount 1910.0 USDm, equivalent to 5.19x EBITDA, representing 100.0% of capital structure.",
+    "metadata": {
+      "company": "MineralsCo International",
+      "source": "https://www.9fin.com/company_id/3/cap_table"
+    }
+  }
+]
