@@ -1,5 +1,4 @@
-[tool.poetry]
-package-mode = false
+[project]
 name = "nine-fin-agent"
 version = "0.1.0"
 description = ""

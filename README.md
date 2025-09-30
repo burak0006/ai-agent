@@ -78,8 +78,8 @@ docker run --rm -it -e OPENAI_API_KEY=YOUR_KEY ai-agent
 docker-compose up --build
 ```
 
-## To run evaliation
+## To run evaluation
 
 ```bash
-poetry run python eval/evaluate.py --num-samples 5
+python -m eval.evaluate --num-samples 5
 ```

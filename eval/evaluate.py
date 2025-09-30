@@ -3,7 +3,7 @@ import math
 import random
 import argparse
 from pathlib import Path
-from typing import List, Dict, Any
+from typing import List, Any
 
 from src.nine_fin_agent.retriever.vectorize import _retrieve_raw
 
@@ -14,20 +14,21 @@ EVAL_DATA_PATH = ROOT_DIR / "fixtures" / "eval_queries.json"
 # Retrieval Metrics
 # -------------------
 
-def recall_at_k(retrieved: List[Dict[str, Any]], expected_id: str, k: int) -> float:
-    ids = [doc.metadata.get("_id") for doc in retrieved[:k]]
-    return 1.0 if expected_id in ids else 0.0
+def recall_at_k(retrieved: List[Any], expected_text: str, k: int) -> float:
+    contents = [doc.page_content for doc in retrieved[:k]]
+    return 1.0 if any(expected_text in c for c in contents) else 0.0
 
-def precision_at_k(retrieved: List[Dict[str, Any]], expected_id: str, k: int) -> float:
-    ids = [doc.metadata.get("_id") for doc in retrieved[:k]]
-    return ids.count(expected_id) / k
+def precision_at_k(retrieved: List[Any], expected_text: str, k: int) -> float:
+    contents = [doc.page_content for doc in retrieved[:k]]
+    hits = sum(1 for c in contents if expected_text in c)
+    return hits / k
 
-def ndcg_at_k(retrieved: List[Dict[str, Any]], expected_id: str, k: int) -> float:
-    ids = [doc.metadata.get("_id") for doc in retrieved[:k]]
-    if expected_id not in ids:
-        return 0.0
-    rank = ids.index(expected_id) + 1
-    return 1.0 / math.log2(rank + 1)
+def ndcg_at_k(retrieved: List[Any], expected_text: str, k: int) -> float:
+    contents = [doc.page_content for doc in retrieved[:k]]
+    for i, c in enumerate(contents, start=1):
+        if expected_text in c:
+            return 1.0 / math.log2(i + 1)
+    return 0.0
 
 # -------------------
 # LLM Output Metrics
@@ -42,6 +43,7 @@ def conciseness(answer: str, max_sentences: int = 3) -> float:
 
 def faithfulness(answer: str, retrieved_docs: List[Any]) -> float:
     all_context = " ".join(doc.page_content for doc in retrieved_docs)
+    # crude: check if first 5 words appear in context
     return 1.0 if all(word in all_context for word in answer.split()[:5]) else 0.0
 
 # -------------------
@@ -62,9 +64,9 @@ def run_eval(num_samples: int = 5):
 
         serialized, docs = _retrieve_raw(q)
 
-        rec = recall_at_k(docs, expected_id=None, k=5)
-        prec = precision_at_k(docs, expected_id=None, k=5)
-        ndcg = ndcg_at_k(docs, expected_id=None, k=5)
+        rec = recall_at_k(docs, expected_text, k=5)
+        prec = precision_at_k(docs, expected_text, k=5)
+        ndcg = ndcg_at_k(docs, expected_text, k=5)
 
         acc = accuracy(serialized, expected_text)
         conc = conciseness(serialized)
